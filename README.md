@@ -1,38 +1,19 @@
 <a name="readme-top"></a>
 
-![StarForge - Ai SaaS Website](/.github/images/img_main.png "StarForge - Ai SaaS Landing Website")
   <h3 align="center">StarForge</h3>
   <p align="center">
     Ai SaaS Landing template for your next project
     <br />
-    <a href="https://ai-saas-landing-starter.vercel.app/"><strong>Explore »</strong></a>
+    <a href="https://ai-saas-landing-eight.vercel.app/"><strong>Explore »</strong></a>
     <br />
     <br />
-    <a href="https://ai-saas-landing-starter.vercel.app/">Website</a>
+    <a href="https://ai-saas-landing-eight.vercel.app/">Website</a>
     &middot;
-    <a href="https://github.com/JUST-FIX/ai-saas-landing-starter/issues">Issues</a>
+    <a href="https://github.com/cleanmind777/Landing-Page-for-AI-SaaS/issues">Issues</a>
     &middot;
-    <a href="https://github.com/JUST-FIX/ai-saas-landing-starter/issues/new?labels=enhancement&template=FEATURE_REQUEST_TEMPLATE.md">Request Feature</a>
+    <a href="https://github.com/cleanmind777/Landing-Page-for-AI-SaaS/issues/new?labels=enhancement&template=FEATURE_REQUEST_TEMPLATE.md">Request Feature</a>
   </p>
 </p>
-
-<p align="center">
-  <a href="https://www.typescriptlang.org/">
-    <img src="https://img.shields.io/github/languages/top/JUST-FIX/ai-saas-landing-starter?&logoColor=%23007ACC&label=TypeScript" alt="Top Language">
-  </a>
-  <a href="https://github.com/JUST-FIX/ai-saas-landing-starter/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/JUST-FIX/ai-saas-landing-starter?style=flat&color=orange&label=Contributors" alt="Contributors">
-  </a>
-  <a href="https://github.com/JUST-FIX/ai-saas-landing-starter/commits/main">
-    <img src="https://img.shields.io/github/commit-activity/t/JUST-FIX/ai-saas-landing-starter?style=flat&logo=github" alt="Commits">
-  </a>
-  <a href="https://github.com/JUST-FIX/ai-saas-landing-starter/pulls">
-    <img src="https://img.shields.io/github/issues-pr/JUST-FIX/ai-saas-landing-starter?color=brightgreen&label=PRs" alt="Pull Requests">
-  </a>
-  <img src="https://img.shields.io/github/deployments/JUST-FIX/ai-saas-landing-starter/Production?logo=vercel&label=Website" alt="Deployment Status">
-</p>
-
-
 
 <!-- [![GitHub commits](https://img.shields.io/github/commit-activity/t//ai-saas-landing-starter?style=social&logo=github)](https://github.com/aayushbharti/ai-saas-landing-starter/commits)
 [![Pull requests](https://img.shields.io/github/issues-pr/aayushbharti/ai-saas-landing-starter?style=social&logo=github)](https://github.com/aayushbharti/ai-saas-landing-starter/pulls) -->
@@ -48,7 +29,6 @@
 <summary>Table of Contents</summary>
 
 - [About the Project](#about-the-project)
-- [📷 Screenshots](#-screenshots)
 - [✨ Technologies Used](#-technologies-used)
 - [🧰 Setup](#-setup)
 - [🔧 Contributing](#-contributing)
@@ -63,17 +43,6 @@
 Tailwind CSS, exemplifies modern UI/UX principles. Its sleek design, seamless
 animations and overall user experience set a high standard, serving as a
 reference or inspiration for future modern applications or websites in general.
-
-## 📷 Screenshots
-
-![Modern UI/UX Hero](/.github/images/img1.jpeg "Modern UI/UX Hero")
-
-![Animated Bento grid](/.github/images/img2.jpeg "Animated Bento grid")
-
-<!-- ![Animated Pricing section](/.github/images/img3.jpeg "Animated Pricing section")
-
-![Beautiful Grid](/.github/images/img4.jpeg "Beautiful Grid") -->
-
 
 ## ✨ Technologies Used
 
@@ -96,23 +65,18 @@ reference or inspiration for future modern applications or websites in general.
 
 </details><br/>
 
-[![Technologies Used](https://skillicons.dev/icons?i=ts,nextjs,tailwind,vercel)](https://skillicons.dev)
-
-<!-- ## :wrench: Stats
-
-[![Stats for StarForge](/.github/images/stats.svg "Stats for StarForge")](https://pagespeed.web.dev/analysis?url=https://ai-saas-landing-starter.vercel.app/ "Stats for StarForge") -->
-
 ## 🧰 Setup
 
 1. Make sure [Git](https://git-scm.com/downloads) and [Node.js](https://nodejs.org/en/) are installed.
 2. Fork this repository on GitHub and clone **your fork** to your local machine:
 
    ```bash
-   git clone https://github.com/<your-username>/ai-saas-landing-starter.git
-   cd ai-saas-landing-starter
+   git clone https://github.com/cleanmind777/Landing-Page-for-AI-SaaS
+   cd Landing-Page-for-AI-SaaS
    ```
-3. Open the terminal in the project root and run `pnpm install` to install dependencies.
-4. Start the development server with `pnpm dev`.
+3. Copy `.env.example` to `.env.local` and add any environment variables you need (optional for local dev).
+4. Open the terminal in the project root and run `pnpm install` to install dependencies.
+5. Start the development server with `pnpm dev`.
 <!-- 5. Visit **[http://localhost:3000](http://localhost:3000)** in your browser to see it live 🚀. -->
 
 ## 🔧 Contributing
